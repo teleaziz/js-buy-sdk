@@ -1,15 +1,7 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Dependency directory
-node_modules
-
-# Intermediate files
-tmp
-
-# Build artifacts
-dist
-.dist-test
-tests.xml
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
