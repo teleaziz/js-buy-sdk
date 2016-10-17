@@ -1,34 +1,7 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Dependencies
-node_modules
-selenium-standalone.jar
-
-# Intermediate files
-tmp
-
-# Build artifacts
-dist
-.dist-test
-tests.xml
-WDIO.*.xml
-lib
-/node.js
-/polyfilled.js
-
-
-# Decrypted secrets
-secrets.json
-_site
-.nvmrc
-
-# Docs / Jekyll generated files
-docs/src
-docs/api/v*
-docs/api/master
-_site
-.sass-cache
-.jekyll-metadata
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
