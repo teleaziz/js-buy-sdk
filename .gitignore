@@ -1,19 +1,7 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-
-# Dependencies
-node_modules
-
-# Intermediate files
-.tmp
-types.js
-optimized-types.js
-
-# Build artifacts
-index.*
-
-# Decrypted secrets
-secrets.json
-.nvmrc
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
